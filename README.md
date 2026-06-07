@@ -154,6 +154,10 @@ ant run
 
 If dependency paths are not configured on your machine, Ant compilation will fail until the library paths in `nbproject/project.properties` are updated.
 
+## License
+
+This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
 ## Star History
 
 <a href="https://www.star-history.com/#markjasonesguerra/Java-OOP-&Date">
@@ -163,5 +167,4 @@ If dependency paths are not configured on your machine, Ant compilation will fai
     <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=markjasonesguerra/Java-OOP-&amp;type=Date" />
   </picture>
 </a>
-
 
