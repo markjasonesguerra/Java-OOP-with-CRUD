@@ -156,5 +156,12 @@ If dependency paths are not configured on your machine, Ant compilation will fai
 
 ## Star History
 
-[View this repository on Star History](https://www.star-history.com/#markjasonesguerra/Java-OOP-&Date).
+<a href="https://www.star-history.com/#markjasonesguerra/Java-OOP-&Date">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=markjasonesguerra/Java-OOP-&amp;type=Date&amp;theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=markjasonesguerra/Java-OOP-&amp;type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=markjasonesguerra/Java-OOP-&amp;type=Date" />
+  </picture>
+</a>
 
+If the chart does not appear immediately after making the repository public, wait a few minutes for GitHub and Star History to refresh their cache.
