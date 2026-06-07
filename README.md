@@ -164,4 +164,4 @@ If dependency paths are not configured on your machine, Ant compilation will fai
   </picture>
 </a>
 
-If the chart does not appear immediately after making the repository public, wait a few minutes for GitHub and Star History to refresh their cache.
+
