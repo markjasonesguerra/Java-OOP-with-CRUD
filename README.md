@@ -159,37 +159,3 @@ If dependency paths are not configured on your machine, Ant compilation will fai
 [View this repository on Star History](https://www.star-history.com/#markjasonesguerra/Java-OOP-&Date).
 
 GitHub-powered badges and the Star History chart require the repository to be publicly accessible. If the repository is private or not visible to the GitHub API, these services may display `not found`.
-
-## Commit Guidance
-
-Commit source and project files:
-
-- `README.md`
-- `.gitignore`
-- `src/**/*.java`
-- `src/**/*.form`
-- `src/project/icon/**`
-- `icon/**`
-- `build.xml`
-- `manifest.mf`
-- `nbproject/project.xml`
-- `nbproject/project.properties` only if the dependency paths are intentionally shared
-
-Avoid committing generated or local files:
-
-- `build/`
-- `dist/`
-- `*.class`
-- `nbproject/private/`
-- local database dumps containing real data
-- files containing passwords, API keys, app passwords, or private email credentials
-
-> Note: this repository currently tracks generated `build/classes` files and `nbproject/private` files. The new `.gitignore` prevents future generated files from being added, but already tracked files remain tracked until they are intentionally removed from Git.
-
-## Security Notes
-
-The current code contains hard-coded database credentials and email credentials. Before using this project outside a local class/demo environment, move secrets to environment variables or a local configuration file that is ignored by Git.
-
-## Author
-
-Mark Jason Esguerra
