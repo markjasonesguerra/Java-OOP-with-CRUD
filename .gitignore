@@ -1,0 +1,25 @@
+# NetBeans / Ant build output
+build/
+dist/
+nbdist/
+
+# Compiled Java output
+*.class
+
+# NetBeans local/private metadata
+nbproject/private/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.temp
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local environment and secret files
+.env
+.env.*
+*.local
